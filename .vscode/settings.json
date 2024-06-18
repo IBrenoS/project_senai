@@ -1,0 +1,8 @@
+{
+
+  "material-icon-theme.folders.associations": {
+    "Signup": "Interface",
+    "Signin": "public",
+    "Pacientes": "interface",
+  }
+}
